@@ -9,6 +9,4 @@ import java.util.Collection;
 @Repository
 public interface PerfilRepository extends JpaRepository<Perfil,Long> {
 
-
-
 }
